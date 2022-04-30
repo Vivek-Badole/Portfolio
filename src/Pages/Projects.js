@@ -31,7 +31,7 @@ function Projects() {
               description="Purplle is an beauty products online purchasing website.This site provides so many beauty products categories."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | Express | Nodejs "
-              link="https://yesstyleclone.netlify.app/"
+//               link="https://yesstyleclone.netlify.app/"
               a="https://github.com/Vivek-Badole/purpleclone"
             />
           </Col>
